@@ -1,5 +1,5 @@
 $(document).ready(function() {
-// alert("Created by Kristina You - 2022");
+alert("Created by Kristina You - 2022");
  $("#title").draggable();
  $("#rose").draggable();
 $("#endless").draggable();
